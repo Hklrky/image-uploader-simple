@@ -57,9 +57,9 @@ Curious about what you can create? Check out our live demo at [imguploader.web.i
 
 **Daven Woody** is a passionate developer and open-source enthusiast. With a love for creating simple yet powerful web applications, Dave aims to empower others through accessible coding solutions.
 
-![Dave Woody]() <!-- Replace with an actual image URL -->
+![Dave Woody](https://imguploader.web.id/images/1602fa1f6f.png) <!-- Replace with an actual image URL -->
 
-- **GitHub**: [davenwoody](https://github.com /davenwoody)
+- **GitHub**: [davenwoody](https://github.com/davenwoody)
 - **YouTube**: [@davenwoodys](https://youtube.com/davenwoodys)
 - **Website**: [davenwoody.github.io](https://davenwoody.github.io)
 
