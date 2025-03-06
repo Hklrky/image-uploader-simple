@@ -2,7 +2,7 @@
 
 # 🌟 Image Uploader Simple 🌟
 
-Welcome to **Image Uploader Simple**! 🚀 This is your go-to solution for creating a sleek and efficient image uploading website. Whether you're a seasoned developer or just starting out, this template is designed to make your life easier while providing a stunning user experience.
+Welcome to *Image Uploader Simple*! 🚀 This is your go-to solution for creating a sleek and efficient image uploading website. Whether you're a seasoned developer or just starting out, this template is designed to make your life easier while providing a stunning user experience.
 
 -----
 
