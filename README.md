@@ -42,36 +42,9 @@ Ready to dive in? Follow these simple steps to set up your own image uploader:
 
 Curious about what you can create? Check out our live demo at [imguploader.web.id](https://imguploader.web.id/). Experience the smooth uploading process and see how easy it is to share images with the world!
 
-![Live Demo Screenshot](https://example.com/path/to/your/live-demo-screenshot.png) <!-- Replace with an actual image URL -->
+![Live Demo Screenshot](https://raw.githubusercontent.com/davenwoody/image-uploader-simple/refs/heads/main/Screenshot_2025_0307_002150.jpg) <!-- Replace with an actual image URL -->
 
-## 💻 Code Snippet
-
-Here’s a sneak peek at the HTML structure that powers this template:
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Uploader</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>🌈 Upload Your Image</h1>
-    </header>
-    <main>
-        <form id="uploadForm">
-            <input type="file" id="fileInput" accept="image/*" required>
-            <button type="submit">🚀 Upload</button>
-        </form>
-        <div id="preview"></div>
-    </main>
-    <script src="script.js"></script>
-</body>
-</html>
-```
+---
 
 ## 🎉 Why Choose Image Uploader Simple?
 
