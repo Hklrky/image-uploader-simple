@@ -6,7 +6,7 @@ Welcome to **Image Uploader Simple**! 🚀 This is your go-to solution for creat
 
 -----
 
-![Image Uploader Simple](https://example.com/path/to/your/image-uploader-screenshot.png) <!-- Replace with an actual image URL -->
+![Image Uploader Simple](https://raw.githubusercontent.com/davenwoody/image-uploader-simple/refs/heads/main/Screenshot_2025_0307_002107.jpg) <!-- Replace with an actual image URL -->
 
 ## 🎨 Features That Shine
 
